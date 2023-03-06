@@ -2,7 +2,7 @@
 <h3 align="center">I've got some serious coding chops! I'm ready to take on any challenge that comes my way with my mad programming skills.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafraza" alt="shafraza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafraza&theme=onedark" alt="shafraza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shafaqat_raza" target="blank"><img src="https://img.shields.io/twitter/follow/shafaqat_raza?logo=twitter&style=for-the-badge" alt="shafaqat_raza" /></a> </p>
 

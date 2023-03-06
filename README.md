@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafaqat Ali</h1>
 <h3 align="center">I've got some serious coding chops! I'm ready to take on any challenge that comes my way with my mad programming skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafraza&label=Profile%20views&color=0e75b6&style=flat" alt="shafraza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafraza" alt="shafraza" /></a> </p>
 

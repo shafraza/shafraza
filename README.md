@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust, Erlang**
 
-- 💬 Ask me about **System Design, PHP, Laravel, ReactJs, NodeJs, Python**
+- 💬 Ask me about **System Design, ReactJs, NodeJs, Python**
 
 - 📫 How to reach me **shafaqat.raza.12@gmail.com**
 
